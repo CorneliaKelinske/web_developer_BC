@@ -1,3 +1,13 @@
 .Date {
     text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #3498db
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.first {
+    font-family: 'Source Sans Pro', sans-serif;
 }
