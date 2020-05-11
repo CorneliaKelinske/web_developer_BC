@@ -1,3 +1,9 @@
+body {
+    max-width: 700px;
+    margin: auto;
+    border: 20 px solid #bdc3c7;
+}
+
 .Date {
     text-transform: uppercase;
     font-family: 'Source Sans Pro', sans-serif;
