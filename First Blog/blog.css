@@ -1,7 +1,7 @@
 body {
-    max-width: 700px;
-    margin: auto;
-    border: 20 px solid #bdc3c7;
+    /* max-width: 700px;
+    margin: auto; */
+    border: 20px solid #bdc3c7;
 }
 
 .Date {
@@ -17,7 +17,7 @@ h2 {
 
 .first {
     font-family: 'Source Sans Pro', sans-serif;
-    border-left: 20 px solid #bdc3c7;
+    border-left: 5px solid #bdc3c7;
 }
 
 .blog-para {
